@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: game-container
-        image: raiveton/2048:20241226.071858
+        image: raiveton/2048:20241226.120733
         ports:
         - containerPort: 80
 ---
